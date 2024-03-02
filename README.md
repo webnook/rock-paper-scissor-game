@@ -1,1 +1,1 @@
-simple game using vannila js that shows result on console 
+simple game using vanilla js that shows result on console 
